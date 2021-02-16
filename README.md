@@ -1,6 +1,8 @@
 # React Avançado - Won Games API
 
-This is the API to create the Won Games Store from [React Avançado course](https://reactavancado.com.br/).
+This is the API to create the Won Games Store from [React Avançado course](https://react-avancado-strapi.netlify.app/).
+
+<img src="assets/img.png" alt="Foto da Won Games Alan Henrique" />
 
 ## Requirements
 
